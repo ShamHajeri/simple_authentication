@@ -2,6 +2,7 @@ function select_login() {
     document.getElementById('sign_up').style.display="none"
     document.getElementById('login').style.display="unset"
 }
+
 function select_sign_up() {
     document.getElementById('sign_up').style.display="unset"
     document.getElementById('login').style.display="none"
